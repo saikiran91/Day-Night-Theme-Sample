@@ -1,3 +1,5 @@
+package io.saisoft.daynightthemesample
+
 import android.app.Activity
 import android.content.Context
 import android.preference.PreferenceManager
